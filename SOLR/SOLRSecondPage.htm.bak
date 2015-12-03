@@ -5,9 +5,12 @@
 <h1>My Second Heading file</h1>
 
 <p>My Second paragraph.</p>
+<<<<<<< HEAD
 <p>My Second paragraph.</p><p>My Second paragraph.</p><p>My Second paragraph.</p><p>My Second paragraph.</p><p>My Second paragraph.</p><p>My Second paragraph.</p><p>My Second paragraph.</p><p>My Second paragraph.</p><p>My Second paragraph.</p><p>My Second paragraph.</p><p>My Second paragraph.</p><p>My Second paragraph.</p>
+=======
 <p>Karan paragraph</p>
 <p>***********************************************************</p>
 
+>>>>>>> ReleaseBranchv1.2
 </body>
 </html>
